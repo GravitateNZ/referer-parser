@@ -1,6 +1,6 @@
 {
-    "name": "snowplow/referer-parser",
-    "description": "Snowplow Refer(r)er parser for PHP",
+    "name": "gravitatenz/referer-parser",
+    "description": "fork of Snowplow Refer(r)er parser for PHP",
     "require-dev": {
         "phpunit/phpunit": "3.*",
         "symfony/yaml": "*"
